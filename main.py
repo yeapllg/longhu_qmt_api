@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 # -*- coding:utf-8 -*-
-import server
+import server_qmt
 if __name__ == "__main__":
-    server.main()
+    server_qmt.main()
 
 
 '''
